@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'posts',
     'lovely',
-]
+    
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
